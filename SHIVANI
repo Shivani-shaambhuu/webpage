@@ -1,0 +1,28 @@
+<HTML>
+<HEAD>
+<TITLE> HELLO </TITLE>
+</HEAD>
+<BODY>
+<P>
+<FONT FACE = "ARIAL">
+<FONT SIZE = 4>
+<FONT COLOR = "DARK BLUE">
+<B>
+<I>
+To specify the beginning of 
+the paragraph and the endof paragraph, <p> and </p> tag is used 
+</FONT>
+</FONT>
+</FONT>
+<P>
+<CENTER>
+<FONT FACE = "ARIAL">
+<FONT SIZE = 4>
+<FONT COLOR = "RED">
+The paragraph tag displays a blank line both <BR> on the top and the bottom of the paragraph
+</FONT>
+</FONT>
+</FONT>
+</CENTER>
+</BODY>
+</HTML>
